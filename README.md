@@ -16,7 +16,7 @@ Cuando un usuario realiza un pedido, la API guarda información sobre el pedido 
 Los usuarios pueden acceder a sus propios pedidos mediante métodos dedicados, lo que les permite ver el historial de sus compras.
 Los administradores tienen acceso a todos los pedidos realizados en la plataforma, lo que facilita la gestión de los registros de ventas y el seguimiento de los pedidos de los clientes.
 
-"Además de las funcionalidades mencionadas anteriormente, es importante destacar que, debido a restricciones de tiempo, no puede corregir las autenticaciones por usuario y amdinistrador pero si genran token validos para lso usuarios".
+Además de las funcionalidades mencionadas anteriormente, es importante destacar que, debido a restricciones de tiempo, no puede corregir las autenticaciones por usuario y amdinistrador pero si genran token validos para lso usuarios.
 
 "Aclarar tambien que solo se crean con rol usuario"
 --------------------
