@@ -1,0 +1,20 @@
+# Visual Studio Code
+.vscode/
+
+# Carpeta bin generada en la compilación
+bin/
+obj/
+
+# Archivos de configuración local
+appsettings.Development.json
+
+# Archivos de registro
+*.log
+
+# Archivos de usuario específicos de desarrollo
+.vscode/
+*.suo
+*.user
+*.suo
+*.user
+*.sln.docstates
